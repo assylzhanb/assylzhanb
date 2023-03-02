@@ -1,19 +1,4 @@
-### 👋 Hello, there!
-
-I'm Baktiyar Assylzhan, a computer science student interested in full stack web development.
-
-- 🔭 I’m currently working on a pathfinding algorithms visualizer web app. I'm excited to create an intuitive way to visualize and learn about popular pathfinding algorithms.
-
-- 🌱 I’m currently learning Next.js and Express.js to improve my full stack web development skills. I'm always looking for ways to improve and expand my knowledge.
-
-- 💬 Ask me about anything related to web development, algorithms and data structures. I'm always happy to discuss and share knowledge!
-
-- 📫 You can reach me at assylzhanb@unist.ac.kr. Feel free to reach out to me for any opportunities or just to say hi!
-
-- ⚡ Fun fact: I love Game of Thrones
-
-Let's connect and make some awesome things together! 
-
+### CSE student at UNIST
 
 
 
