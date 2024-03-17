@@ -1,4 +1,4 @@
-### CSE student at UNIST
+### Software Engineer
 
 
 
